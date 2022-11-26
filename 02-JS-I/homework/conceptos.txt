@@ -1,0 +1,12 @@
+Conceptos
+- 
+ * Variables
+     Son simbolos que almacenan información para poder usarlo mas tarde 
+ * Strings
+    Los string son letras o numeros que esten almacenados dentro de " " o ' ' lo cual
+ * Funciones (argumentos, `return`)
+    La funciones son bloques de codigo agrupados que realizan una operación
+ * Declaraciones `if`
+    Es una condicional simple, nos sirve para evaluar una expresión, si cumple la condición es verdadera y se ejecutará el bloque de codigo de lo contrario será falsa y se ejecutará otra sentencia
+ * Valores booleanos (`true`, `false`)
+      Estos valores significan que solo tenemos dos opciones true o false 

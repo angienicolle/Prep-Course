@@ -1,0 +1,11 @@
+* `for`
+
+    El for nos permite repetir una instrucción un numero determinado de veces 
+    mientras que la condicion se cumpla, es como un ciclo que mientras de verdadero
+    se seguira cumpliendo de lo contrario terminara el ciclo
+
+* `&&`, `||`, `!`
+
+    Estos son operadores lógicos que nos ayudan a resolver problemas, es una manera
+    diferente de expesar el "y" , "o" y "not" en programacion al final nos ayudara
+    a decidir si la expresión donde lo usamos es verdadera o falsa
